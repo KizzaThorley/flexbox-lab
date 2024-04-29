@@ -93,11 +93,11 @@ nav button {
 }
 
 #subnav {
-    padding: 32px 72px 0;
-    background-color: lightsalmon;
+    padding: 32px;
+    background-color: lightseagreen;
     display: flex;
     justify-content: space-between;
-
+    align-items: center;
 
 }
 
